@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face{
+    font-family: "FOUNDATIONLOGO";
+    src:url("../public/fonts/FoundationLogo.ttf")
+}
